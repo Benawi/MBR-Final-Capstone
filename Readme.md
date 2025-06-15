@@ -24,7 +24,7 @@
 You will work in a team to design and build a **dynamic, full-stack web application** using:
 
 - **PHP** (plain PHP or Laravel)
-- **HTML, CSS, JavaScript** (no frameworks)
+- **HTML, CSS, JavaScript** 
 - **PostgreSQL or MySQL** for data storage
 
 Your application can solve any real-world problem or fulfill any purpose. This is your opportunity to build something meaningful and personal to your team.
