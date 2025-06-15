@@ -116,7 +116,7 @@ Your application can solve any real-world problem or fulfill any purpose. This i
 ## ⚙️ Technical Setup
 
 - **Back-End:** PHP (Laravel optional)
-- **Front-End:** HTML, CSS, JavaScript (no frameworks)
+- **Front-End:** HTML, CSS, JavaScript 
 - **Database:** PostgreSQL or MySQL
 - Use [RESTful principles](https://restfulapi.net/) for API endpoints (e.g., `GET /items`, `POST /items`, `DELETE /items/:id`).
 
